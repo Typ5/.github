@@ -1,5 +1,7 @@
-## Hi there 👋
+## Type 16
+Software development by Type16 is a OpenSource Software Distribution corporation and software builder for the community.
 
+<a href="type16-contact@proton.me">type16-contact@proton.me</a>
 <!--
 
 **Here are some ideas to get you started:**
