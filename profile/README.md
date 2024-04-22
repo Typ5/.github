@@ -1,5 +1,5 @@
 ## Type 16
-Software development by Type16 is a OpenSource Software Distribution corporation and software builder for the community.
+### Software development by Type16 is a OpenSource Software Distribution corporation and software builder for the community.
 
 <ul>
   <li>
