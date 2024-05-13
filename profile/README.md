@@ -1,12 +1,9 @@
-## Type 16
-### Software development by Type16 is a OpenSource Software Distribution corporation and software builder for the community.
+## Typ5
+#### Software development by Typ5.
 
 <ul>
   <li>
-    <a href="type16-contact@proton.me">type16-contact@proton.me</a>
-  </li>
-  <li>
-    <a href="https://type16.github.io/Type16-Site/">https://type16.github.io/Type16-Site/</a>
+    <a href="typ5-contact@proton.me">typ5-contact@proton.me</a>
   </li>
 </ul>
 
